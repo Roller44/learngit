@@ -4,6 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 
-Creating a new branch is quck.
+Creating a new branch is quck & simple.
 
 The date of first successfully push to Github : 15, Mar, 2016.
