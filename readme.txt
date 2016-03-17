@@ -6,4 +6,6 @@ Git tracks changes of files.
 
 Creating a new branch is quck and simple.
 
+Now change by dev.
+
 The date of first successfully push to Github : 15, Mar, 2016.
